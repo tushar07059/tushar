@@ -1,3 +1,3 @@
 # tushar
-This is my first repository 
-autor:Tushar 
+This is my first repository.
+Autor:Tushar 
